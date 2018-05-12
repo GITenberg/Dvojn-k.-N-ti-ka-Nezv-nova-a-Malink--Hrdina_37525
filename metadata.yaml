@@ -1,0 +1,47 @@
+_repo: Dvojn-k.-N-ti-ka-Nezv-nova-a-Malink--Hrdina_37525
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Špecingrova-Baušová, Klára
+    alias: Specingrova-Bausova, Klara
+    gutenberg_agent_id: '38897'
+    url: http://www.gutenberg.org/2009/agents/38897
+  - agent_name: Hrubý, Jaromír
+    alias: Hruby, Jaromir
+    gutenberg_agent_id: '38896'
+    url: http://www.gutenberg.org/2009/agents/38896
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fiodor
+    - Dostoievski, Fédor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoyevsky, F. M.
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_issued: '2011-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37525'
+language: cs
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: Dvojník. Petrohradské poema. (Přel. J. Hrubý.) -- Nétička Nezvánova.
+  Úryvky ze vzpomínek. (Přel. J. Hrubý.) -- Malinký hrdina. Z neznámých memoirů. (Přel.
+  Kl. Špecingrova-Baušová).
+title: Dvojník. Nétička Nezvánova a Malinký Hrdina
+url: http://www.gutenberg.org/ebooks/37525
